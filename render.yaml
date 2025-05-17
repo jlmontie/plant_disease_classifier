@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: plant-disease-api
+    env: python
+    plan: free
+    runtime: python
+    buildCommand: "poetry install"
+    startCommand: "./start.sh"
+    envVars:
+      - key: PYTHONPATH
+        value: src

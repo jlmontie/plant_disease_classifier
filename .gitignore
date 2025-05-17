@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Raw and processed data directories
+data/
+data_processed/
+
+# Jupyter checkpoint files
+**/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
