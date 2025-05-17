@@ -7,6 +7,10 @@ app = FastAPI()
 
 model = load_model()
 
+@app.get("/")
+def root():
+    return {"message": "Plant Disease Classifier API is running"}
+
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     if not file.filename.endswith((".jpg", ".jpeg", ".png")):
