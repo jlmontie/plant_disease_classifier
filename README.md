@@ -62,6 +62,8 @@ plant-disease-classifier/
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jlmontie/plant-disease-classifier/blob/main/notebooks/train_final.ipynb)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plantdiseaseclassifier-brrwvxbf7n8c2htzqo3kuf.streamlit.app/)
+
 ---
 
 ## 🔮 What I'd Build Next
