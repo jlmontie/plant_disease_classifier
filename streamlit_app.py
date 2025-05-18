@@ -3,7 +3,7 @@ from PIL import Image
 import requests
 import io
 
-API_URL = "https://plant-disease-classifier-zcpg.onrender.com"
+API_URL = "https://plant-disease-classifier-zcpg.onrender.com/predict"
 
 st.set_page_config(page_title="Plant Disease Classifier", layout="centered")
 

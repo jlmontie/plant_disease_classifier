@@ -59,9 +59,10 @@ plant-disease-classifier/
 ---
 
 ## ▶️ Try It Yourself
-
+Run the training notebook.  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jlmontie/plant-disease-classifier/blob/main/notebooks/train_final.ipynb)
 
+Use the web app to make a prediction.
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://plantdiseaseclassifier-brrwvxbf7n8c2htzqo3kuf.streamlit.app/)
 
 ---
