@@ -19,6 +19,7 @@ uvicorn = "^0.29.0"
 streamlit = "^1.45.1"
 requests = "^2.32.3"
 python-multipart = "^0.0.20"
+numpy = "<2.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"
